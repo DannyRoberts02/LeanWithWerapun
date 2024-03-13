@@ -1,3 +1,5 @@
 # Typescript learningæ
 This repo is for learning Typescript.
- toppp
+## note
+branch is version part
+remote is github server to store code
